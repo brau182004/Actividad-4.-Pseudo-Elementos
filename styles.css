@@ -1,0 +1,9 @@
+p::first-letter {
+    color: rgb(0, 38, 255);
+    font-size: 200%;
+
+  }
+
+  p::first-line{
+      background-color: rgb(255, 109, 42);
+  }
